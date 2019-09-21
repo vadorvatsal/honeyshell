@@ -1,2 +1,2 @@
-# honeypot
+# honeyshell
 Cyber Security Project
